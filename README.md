@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Caleb
+ I'm a fulltime collage student make bots and other fun stuff for games  
+ <br/>
+ 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
+ 
 
-<!--
-**TheRavenSeb/TheRavenSeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on Arcane Magica
+- 👯 I’m looking to collaborate on Anything township tale 
+- 💬 Ask me about Gaurdian
+- 📫 How to reach me: Discord: `@theravenseb` Email: <a href = "mailto: CThomas985@outlook.com">CThomas985@outlook.com</a>
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: i dream of one day making games
+
