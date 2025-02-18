@@ -26,10 +26,14 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ![TheRavenSeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRavenSeb&show_icons=true&theme=radical)
 
+# 🖊 Top Langages
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheRavenSeb)
+
+
 ## 🏆 Top Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=shock-client1&theme=radical)](https://github.com/TheRavenSeb/Shock-Client)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Arcane-Magica&repo=arcane-aagica&theme=radical)](https://github.com/Arcane-Magica/Arcane-Magica)
+[![Shock-Client](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=shock-client1&theme=radical)](https://github.com/TheRavenSeb/Shock-Client)
+[![Arcane-Magica](https://github-readme-stats.vercel.app/api/pin/?username=Arcane-Magica&repo=arcane-aagica&theme=radical)](https://github.com/Arcane-Magica/Arcane-Magica)
 
 ## 📫 Connect with Me
 
