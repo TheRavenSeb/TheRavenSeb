@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🏆 Top Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=repo1&theme=radical)](https://github.com/TheRavenSeb/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=repo2&theme=radical)](https://github.com/TheRavenSeb/repo2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=Shock-Client1&theme=radical)](https://github.com/TheRavenSeb/Shock-Client)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=Arcane-Magica&theme=radical)](https://github.com/TheRavenSeb/Arcane-Magica)
 
 ## 📫 Connect with Me
 
