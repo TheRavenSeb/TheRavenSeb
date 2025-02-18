@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## 🏆 Top Repositories
 
 [![Shock-Client](https://github-readme-stats.vercel.app/api/pin/?username=TheRavenSeb&repo=shock-client1&theme=radical)](https://github.com/TheRavenSeb/Shock-Client)
-[![Arcane-Magica](https://github-readme-stats.vercel.app/api/pin/?username=Arcane-Magica&repo=arcane-aagica&theme=radical)](https://github.com/Arcane-Magica/Arcane-Magica)
+[![Arcane-Magica](https://github-readme-stats.vercel.app/api/pin/?username=Arcane-magica&repo=arcane-aagica&theme=radical)](https://github.com/Arcane-Magica/Arcane-Magica)
 
 ## 📫 Connect with Me
 
