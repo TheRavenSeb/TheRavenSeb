@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook, Postman
 
 ## 📈 GitHub Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TheRavenSeb)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![TheRavenSeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRavenSeb&show_icons=true&theme=radical)
 
 # 🖊 Top Langages
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheRavenSeb)
