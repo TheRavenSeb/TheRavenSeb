@@ -2,7 +2,15 @@
 # Hi there, I'm Caleb Thomas also know as TheRavenSeb 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies. Here's a little bit about me:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+
+<br/>
+
+![status](https://api.statusbadges.me/badge/status/582279365912559631?style=flat-square)
+![vscode](https://api.statusbadges.me/badge/vscode/582279365912559631)
+![spotify](https://api.statusbadges.me/badge/spotify/582279365912559631)
+![playing](https://api.statusbadges.me/badge/playing/582279365912559631?style=flat-square)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/RAQJSKJSTJGV4)
 
