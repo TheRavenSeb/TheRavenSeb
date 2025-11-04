@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![spotify](https://api.statusbadges.me/badge/spotify/582279365912559631)
 ![playing](https://api.statusbadges.me/badge/playing/582279365912559631?style=flat-square)
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/RAQJSKJSTJGV4)
 
